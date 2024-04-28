@@ -1,0 +1,31 @@
+4/28/24
+
+--PART 1: WHAT CAN AN ARDUINO DO--
+
+It's a tool that helps you control electronic stuff with code. If you are going to
+build a project with electronic stuff, you are going to need an arduino.
+
+Electronic stuff is stuff like inputs and outputs.
+
+Inputs: Temperature, light, touch, flex, distance sensors.
+Outputs: DC motors, stepper motors, servo motors, led strips, buzzers, speakers.
+
+Arduino stands in between these things and has logic in code that controls these things.
+
+The Arduino Trifecta
+1. Hardware
+2. IDE
+3. Code
+
+Hardware
+All arduino have a microcontroller on them. This allows us to read inputs and control outputs.
+
+IDE
+This is just the arduino software space for the code to be written on, that the arduino will read.
+
+Code
+Arduino code is called a sketch. The coding is basically like C and C++ with its own syntax
+as well.
+
+--PART 2: WHAT ARDUINO STUFF SHOULD I BUY?--
+<timestamp: 5:33>
