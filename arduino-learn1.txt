@@ -29,3 +29,15 @@ as well.
 
 --PART 2: WHAT ARDUINO STUFF SHOULD I BUY?--
 <timestamp: 5:33>
+
+If I need electronic parts, I can look on Octopart.
+
+This guy recommends buying an Arduino UNO Rev 3. It's really popular so
+there are a lot of tutorials with it, and it has 20 different input ports.
+
+There are a lot of different boards that look like arduino boards because
+when arduino made their IDE, board, and code, it was all open source. So people
+were allowed to make the exact same things and sell them themselves.
+
+"Arduino compatible" means the board will work with the Arduino IDE.
+<timestamp: 10:25. Going to get an Arduino now!>
