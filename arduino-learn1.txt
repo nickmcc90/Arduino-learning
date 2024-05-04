@@ -41,3 +41,22 @@ were allowed to make the exact same things and sell them themselves.
 
 "Arduino compatible" means the board will work with the Arduino IDE.
 <timestamp: 10:25. Going to get an Arduino now!>
+
+<I got one!!>
+
+--PART 3: WHAT'S ON AN ARDUINO BOARD?--
+There's a black square with prongs called the micro controller. This is the brains of
+the arduino, and the prongs are called GPIO. General purpose input output.
+
+The plastic columns with holes in them on the sides are called headers. These holes
+are meant for temporary connections to the microcontroller without having to sauter
+something permanently.
+
+Of the headers, the digital pins are listed 1-13. These are for inputs and outputs that are
+on/off values (binary values). These pins can source 5 volts each. Pins with squiggly lines
+mean that those pins are capable of pulse width modulation (PWM). This is good for servo motors
+and fading lights. TX and RX are for LDS.
+
+Of the headers, the ANALOG IN ones mean they are meant for continous signals (ones that are not
+just on/off binary values.)
+<timestamp: 17:22>
