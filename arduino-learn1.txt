@@ -60,3 +60,15 @@ and fading lights. TX and RX are for LDS.
 Of the headers, the ANALOG IN ones mean they are meant for continous signals (ones that are not
 just on/off binary values.)
 <timestamp: 17:22>
+
+Something like reading a temperature would be put in these headers. We would use code to transform the
+voltage output to a temperature.
+
+Supplying power to the arduino is easy through USB to your computer. Or, you can you the DC Jack
+(black thing), as long as you don't exceed 7-20 volts and a current of 1000 mA. Or, you put a voltage
+source into the Vin pin near the POWER heading.
+
+--PART 4: DOWNLOADING THE ARDUINO IDE--
+You can use a web editor if you aren't on your normal computer, but the normal way is to
+download the IDE.
+<timestamp 23:28 About to get into the code>
