@@ -72,3 +72,10 @@ source into the Vin pin near the POWER heading.
 You can use a web editor if you aren't on your normal computer, but the normal way is to
 download the IDE.
 <timestamp 23:28 About to get into the code>
+
+When sketches get saved, they are saved in the arduino folder within Documents.
+
+Once you have your board connected to your computer and selected, along with a port selected,
+we can run and upload some sample code to the arduino.
+
+<timestamp: 27:13. Next time, make cloud account and figure out how to get example blink code.>
