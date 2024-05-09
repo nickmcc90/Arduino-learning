@@ -79,3 +79,5 @@ Once you have your board connected to your computer and selected, along with a p
 we can run and upload some sample code to the arduino.
 
 <timestamp: 27:13. Next time, make cloud account and figure out how to get example blink code.>
+
+<timestamp: 32:00. Going to talk about the web editor now.>
