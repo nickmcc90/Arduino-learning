@@ -81,3 +81,18 @@ we can run and upload some sample code to the arduino.
 <timestamp: 27:13. Next time, make cloud account and figure out how to get example blink code.>
 
 <timestamp: 32:00. Going to talk about the web editor now.>
+
+--PART 5: HOW TO USE VARIABLES--
+Let's make a new sketch.
+
+The setup and loop variables need to be in every sketch that you do.
+
+Setup: Runs once.
+Loop: Runs repeatedly.
+
+Variables are declared by (type name equals value)
+// bool Nick = true;
+
+Bytes are small numbers from 0 to 255. You can use these for pin numbers (headers)
+
+<timestamp 40:07. Yuuuuh>
