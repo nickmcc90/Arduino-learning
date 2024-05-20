@@ -96,3 +96,35 @@ Variables are declared by (type name equals value)
 Bytes are small numbers from 0 to 255. You can use these for pin numbers (headers)
 
 <timestamp 40:07. Yuuuuh>
+
+Char holds one letter with single quotes.
+char nick = 'A'
+
+Char nick[] holds a string in double quotes.
+char nick[] = "Apples"
+
+We are able to declare and initialize all in one line of code instead of just declaring variables. Like this:
+
+int nick = 8;
+
+Instead of...
+
+int nick;
+
+nick = 8;
+
+
+An interesting setup of an LED running program has a breadboard where one leg of the LED is
+connected to ground, and the other is running through a resistor that is connected to pin 9
+which is PWM.
+
+Pinmode() is a special arduino function that changes the pins on the arduino board to either inputs
+or outputs. It looks like this:
+
+int led = 9;
+
+void setup() {
+  pinMode(led, OUTPUT) # this sets this pin to be an output.
+}
+
+<timestamp 47:23>
